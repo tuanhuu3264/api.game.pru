@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PRU321.ComingHome.API.props" />
+</Project>

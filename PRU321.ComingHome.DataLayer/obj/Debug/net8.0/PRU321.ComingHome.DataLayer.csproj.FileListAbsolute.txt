@@ -1,0 +1,14 @@
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.DataLayer\bin\Debug\net8.0\PRU321.ComingHome.DataLayer.deps.json
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.DataLayer\bin\Debug\net8.0\PRU321.ComingHome.DataLayer.runtimeconfig.json
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.DataLayer\bin\Debug\net8.0\PRU321.ComingHome.DataLayer.dll
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.DataLayer\bin\Debug\net8.0\PRU321.ComingHome.DataLayer.pdb
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.DataLayer\obj\Debug\net8.0\PRU321.ComingHome.DataLayer.csproj.AssemblyReference.cache
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.DataLayer\obj\Debug\net8.0\PRU321.ComingHome.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.DataLayer\obj\Debug\net8.0\PRU321.ComingHome.DataLayer.AssemblyInfoInputs.cache
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.DataLayer\obj\Debug\net8.0\PRU321.ComingHome.DataLayer.AssemblyInfo.cs
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.DataLayer\obj\Debug\net8.0\PRU321.ComingHome.DataLayer.csproj.CoreCompileInputs.cache
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.DataLayer\obj\Debug\net8.0\PRU321.ComingHome.DataLayer.dll
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.DataLayer\obj\Debug\net8.0\refint\PRU321.ComingHome.DataLayer.dll
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.DataLayer\obj\Debug\net8.0\PRU321.ComingHome.DataLayer.pdb
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.DataLayer\obj\Debug\net8.0\PRU321.ComingHome.DataLayer.genruntimeconfig.cache
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.DataLayer\obj\Debug\net8.0\ref\PRU321.ComingHome.DataLayer.dll

@@ -1,0 +1,15 @@
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.BusinessLayer\bin\Debug\net8.0\PRU321.ComingHome.BusinessLayer.deps.json
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.BusinessLayer\bin\Debug\net8.0\PRU321.ComingHome.BusinessLayer.dll
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.BusinessLayer\bin\Debug\net8.0\PRU321.ComingHome.BusinessLayer.pdb
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.BusinessLayer\bin\Debug\net8.0\PRU321.ComingHome.DataLayer.dll
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.BusinessLayer\bin\Debug\net8.0\PRU321.ComingHome.DataLayer.pdb
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.BusinessLayer\obj\Debug\net8.0\PRU321.ComingHome.BusinessLayer.csproj.AssemblyReference.cache
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.BusinessLayer\obj\Debug\net8.0\PRU321.ComingHome.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.BusinessLayer\obj\Debug\net8.0\PRU321.ComingHome.BusinessLayer.AssemblyInfoInputs.cache
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.BusinessLayer\obj\Debug\net8.0\PRU321.ComingHome.BusinessLayer.AssemblyInfo.cs
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.BusinessLayer\obj\Debug\net8.0\PRU321.ComingHome.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.BusinessLayer\obj\Debug\net8.0\PRU321.C.FA179FED.Up2Date
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.BusinessLayer\obj\Debug\net8.0\PRU321.ComingHome.BusinessLayer.dll
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.BusinessLayer\obj\Debug\net8.0\refint\PRU321.ComingHome.BusinessLayer.dll
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.BusinessLayer\obj\Debug\net8.0\PRU321.ComingHome.BusinessLayer.pdb
+D:\Semester7\PRU321-Game\PRU321.ComingHome.API\PRU321.ComingHome.BusinessLayer\obj\Debug\net8.0\ref\PRU321.ComingHome.BusinessLayer.dll

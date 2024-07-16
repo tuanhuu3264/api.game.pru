@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD75F16-6EC7-4E15-A411-F508CD65FE5D}|PRU321.ComingHome.DataLayer\\PRU321.ComingHome.DataLayer.csproj|d:\\semester7\\pru321-game\\pru321.cominghome.api\\pru321.cominghome.datalayer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD75F16-6EC7-4E15-A411-F508CD65FE5D}|PRU321.ComingHome.DataLayer\\PRU321.ComingHome.DataLayer.csproj|solutionrelative:pru321.cominghome.datalayer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5658B1DC-731A-49F5-BBC6-5C8625816D89}|PRU321.ComingHome.BusinessLayer\\PRU321.ComingHome.BusinessLayer.csproj|d:\\semester7\\pru321-game\\pru321.cominghome.api\\pru321.cominghome.businesslayer\\services\\playingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5658B1DC-731A-49F5-BBC6-5C8625816D89}|PRU321.ComingHome.BusinessLayer\\PRU321.ComingHome.BusinessLayer.csproj|solutionrelative:pru321.cominghome.businesslayer\\services\\playingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5658B1DC-731A-49F5-BBC6-5C8625816D89}|PRU321.ComingHome.BusinessLayer\\PRU321.ComingHome.BusinessLayer.csproj|d:\\semester7\\pru321-game\\pru321.cominghome.api\\pru321.cominghome.businesslayer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5658B1DC-731A-49F5-BBC6-5C8625816D89}|PRU321.ComingHome.BusinessLayer\\PRU321.ComingHome.BusinessLayer.csproj|solutionrelative:pru321.cominghome.businesslayer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB48EC1-3DB3-4F11-BD5A-3A7901B5E523}|PRU321.ComingHome.API\\PRU321.ComingHome.API.csproj|d:\\semester7\\pru321-game\\pru321.cominghome.api\\pru321.cominghome.api\\baseresponse\\ranktop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB48EC1-3DB3-4F11-BD5A-3A7901B5E523}|PRU321.ComingHome.API\\PRU321.ComingHome.API.csproj|solutionrelative:pru321.cominghome.api\\baseresponse\\ranktop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB48EC1-3DB3-4F11-BD5A-3A7901B5E523}|PRU321.ComingHome.API\\PRU321.ComingHome.API.csproj|d:\\semester7\\pru321-game\\pru321.cominghome.api\\pru321.cominghome.api\\controllers\\playingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB48EC1-3DB3-4F11-BD5A-3A7901B5E523}|PRU321.ComingHome.API\\PRU321.ComingHome.API.csproj|solutionrelative:pru321.cominghome.api\\controllers\\playingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB48EC1-3DB3-4F11-BD5A-3A7901B5E523}|PRU321.ComingHome.API\\PRU321.ComingHome.API.csproj|d:\\semester7\\pru321-game\\pru321.cominghome.api\\pru321.cominghome.api\\baseresponse\\requestcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB48EC1-3DB3-4F11-BD5A-3A7901B5E523}|PRU321.ComingHome.API\\PRU321.ComingHome.API.csproj|solutionrelative:pru321.cominghome.api\\baseresponse\\requestcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD75F16-6EC7-4E15-A411-F508CD65FE5D}|PRU321.ComingHome.DataLayer\\PRU321.ComingHome.DataLayer.csproj|d:\\semester7\\pru321-game\\pru321.cominghome.api\\pru321.cominghome.datalayer\\models\\playing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD75F16-6EC7-4E15-A411-F508CD65FE5D}|PRU321.ComingHome.DataLayer\\PRU321.ComingHome.DataLayer.csproj|solutionrelative:pru321.cominghome.datalayer\\models\\playing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB48EC1-3DB3-4F11-BD5A-3A7901B5E523}|PRU321.ComingHome.API\\PRU321.ComingHome.API.csproj|d:\\semester7\\pru321-game\\pru321.cominghome.api\\pru321.cominghome.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB48EC1-3DB3-4F11-BD5A-3A7901B5E523}|PRU321.ComingHome.API\\PRU321.ComingHome.API.csproj|solutionrelative:pru321.cominghome.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5658B1DC-731A-49F5-BBC6-5C8625816D89}|PRU321.ComingHome.BusinessLayer\\PRU321.ComingHome.BusinessLayer.csproj|d:\\semester7\\pru321-game\\pru321.cominghome.api\\pru321.cominghome.businesslayer\\services\\endgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5658B1DC-731A-49F5-BBC6-5C8625816D89}|PRU321.ComingHome.BusinessLayer\\PRU321.ComingHome.BusinessLayer.csproj|solutionrelative:pru321.cominghome.businesslayer\\services\\endgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5658B1DC-731A-49F5-BBC6-5C8625816D89}|PRU321.ComingHome.BusinessLayer\\PRU321.ComingHome.BusinessLayer.csproj|d:\\semester7\\pru321-game\\pru321.cominghome.api\\pru321.cominghome.businesslayer\\ranktop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5658B1DC-731A-49F5-BBC6-5C8625816D89}|PRU321.ComingHome.BusinessLayer\\PRU321.ComingHome.BusinessLayer.csproj|solutionrelative:pru321.cominghome.businesslayer\\ranktop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5658B1DC-731A-49F5-BBC6-5C8625816D89}|PRU321.ComingHome.BusinessLayer\\PRU321.ComingHome.BusinessLayer.csproj|d:\\semester7\\pru321-game\\pru321.cominghome.api\\pru321.cominghome.businesslayer\\services\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5658B1DC-731A-49F5-BBC6-5C8625816D89}|PRU321.ComingHome.BusinessLayer\\PRU321.ComingHome.BusinessLayer.csproj|solutionrelative:pru321.cominghome.businesslayer\\services\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5658B1DC-731A-49F5-BBC6-5C8625816D89}|PRU321.ComingHome.BusinessLayer\\PRU321.ComingHome.BusinessLayer.csproj|d:\\semester7\\pru321-game\\pru321.cominghome.api\\pru321.cominghome.businesslayer\\services\\answerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5658B1DC-731A-49F5-BBC6-5C8625816D89}|PRU321.ComingHome.BusinessLayer\\PRU321.ComingHome.BusinessLayer.csproj|solutionrelative:pru321.cominghome.businesslayer\\services\\answerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 68,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnswerService.cs",
+              "DocumentMoniker": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\PRU321.ComingHome.BusinessLayer\\Services\\AnswerService.cs",
+              "RelativeDocumentMoniker": "PRU321.ComingHome.BusinessLayer\\Services\\AnswerService.cs",
+              "ToolTip": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\PRU321.ComingHome.BusinessLayer\\Services\\AnswerService.cs",
+              "RelativeToolTip": "PRU321.ComingHome.BusinessLayer\\Services\\AnswerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T03:25:35.987Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequestCreate.cs",
+              "DocumentMoniker": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\PRU321.ComingHome.API\\BaseResponse\\RequestCreate.cs",
+              "RelativeDocumentMoniker": "PRU321.ComingHome.API\\BaseResponse\\RequestCreate.cs",
+              "ToolTip": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\PRU321.ComingHome.API\\BaseResponse\\RequestCreate.cs",
+              "RelativeToolTip": "PRU321.ComingHome.API\\BaseResponse\\RequestCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:10:56.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\PRU321.ComingHome.DataLayer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PRU321.ComingHome.DataLayer\\Models\\User.cs",
+              "ToolTip": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\PRU321.ComingHome.DataLayer\\Models\\User.cs",
+              "RelativeToolTip": "PRU321.ComingHome.DataLayer\\Models\\User.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:18:52.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayingServices.cs",
+              "DocumentMoniker": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\PRU321.ComingHome.BusinessLayer\\Services\\PlayingServices.cs",
+              "RelativeDocumentMoniker": "PRU321.ComingHome.BusinessLayer\\Services\\PlayingServices.cs",
+              "ToolTip": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\PRU321.ComingHome.BusinessLayer\\Services\\PlayingServices.cs",
+              "RelativeToolTip": "PRU321.ComingHome.BusinessLayer\\Services\\PlayingServices.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAEwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T03:10:46.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\PRU321.ComingHome.BusinessLayer\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "PRU321.ComingHome.BusinessLayer\\Services\\UserService.cs",
+              "ToolTip": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\PRU321.ComingHome.BusinessLayer\\Services\\UserService.cs",
+              "RelativeToolTip": "PRU321.ComingHome.BusinessLayer\\Services\\UserService.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwFEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:37:27.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\PRU321.ComingHome.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PRU321.ComingHome.API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\PRU321.ComingHome.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PRU321.ComingHome.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:37:18.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EndGame.cs",
+              "DocumentMoniker": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\PRU321.ComingHome.BusinessLayer\\Services\\EndGame.cs",
+              "RelativeDocumentMoniker": "PRU321.ComingHome.BusinessLayer\\Services\\EndGame.cs",
+              "ToolTip": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\PRU321.ComingHome.BusinessLayer\\Services\\EndGame.cs",
+              "RelativeToolTip": "PRU321.ComingHome.BusinessLayer\\Services\\EndGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T03:24:30.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuestionService.cs",
+              "DocumentMoniker": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\PRU321.ComingHome.BusinessLayer\\Services\\QuestionService.cs",
+              "RelativeDocumentMoniker": "PRU321.ComingHome.BusinessLayer\\Services\\QuestionService.cs",
+              "ToolTip": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\PRU321.ComingHome.BusinessLayer\\Services\\QuestionService.cs",
+              "RelativeToolTip": "PRU321.ComingHome.BusinessLayer\\Services\\QuestionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T03:19:20.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Playing.cs",
+              "DocumentMoniker": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\PRU321.ComingHome.DataLayer\\Models\\Playing.cs",
+              "RelativeDocumentMoniker": "PRU321.ComingHome.DataLayer\\Models\\Playing.cs",
+              "ToolTip": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\PRU321.ComingHome.DataLayer\\Models\\Playing.cs",
+              "RelativeToolTip": "PRU321.ComingHome.DataLayer\\Models\\Playing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T03:09:08.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayingController.cs",
+              "DocumentMoniker": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\PRU321.ComingHome.API\\Controllers\\PlayingController.cs",
+              "RelativeDocumentMoniker": "PRU321.ComingHome.API\\Controllers\\PlayingController.cs",
+              "ToolTip": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\PRU321.ComingHome.API\\Controllers\\PlayingController.cs",
+              "RelativeToolTip": "PRU321.ComingHome.API\\Controllers\\PlayingController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T03:10:33.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RankTop.cs",
+              "DocumentMoniker": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\PRU321.ComingHome.API\\BaseResponse\\RankTop.cs",
+              "RelativeDocumentMoniker": "PRU321.ComingHome.API\\BaseResponse\\RankTop.cs",
+              "ToolTip": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\PRU321.ComingHome.API\\BaseResponse\\RankTop.cs",
+              "RelativeToolTip": "PRU321.ComingHome.API\\BaseResponse\\RankTop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T03:18:06.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RankTop.cs",
+              "DocumentMoniker": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\PRU321.ComingHome.BusinessLayer\\RankTop.cs",
+              "RelativeDocumentMoniker": "PRU321.ComingHome.BusinessLayer\\RankTop.cs",
+              "ToolTip": "D:\\Semester7\\PRU321-Game\\PRU321.ComingHome.API\\PRU321.ComingHome.BusinessLayer\\RankTop.cs",
+              "RelativeToolTip": "PRU321.ComingHome.BusinessLayer\\RankTop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T03:17:29.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 248,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 57,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

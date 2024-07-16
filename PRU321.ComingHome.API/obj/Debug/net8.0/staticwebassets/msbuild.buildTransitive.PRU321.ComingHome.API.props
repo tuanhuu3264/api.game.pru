@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PRU321.ComingHome.API.props" />
+</Project>
